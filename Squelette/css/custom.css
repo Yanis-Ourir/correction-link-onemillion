@@ -2,6 +2,24 @@
 
 
 
+#home {
+    background-image: url('../images/hero-image.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+
+}
+
+hr {
+    width: 175px;
+}
+
+.test {
+    border: 1px solid red;
+    border-bottom-left-radius: 100px;
+}
+
+
 
 /* Responsive Styling */
 
